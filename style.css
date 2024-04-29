@@ -35,7 +35,7 @@ nav a {
 }
 
 .hero {
-  background-image: url("18. Koenigsegg Jesko.jpeg");  /* Replace with your hero image */
+  background-image: url("images/hero.jpg");  /* Replace with your hero image */
   background-size: cover;
   background-position: center;
   padding: 100px 0;
